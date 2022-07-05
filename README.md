@@ -22,9 +22,9 @@ You can install all the required packages using the following command:
         pip install -r requirements.txt
 
 * Database: MySQL 8.0  
-You can import DB using the following command:
+You can import DB using the following command (You can set the database name yourself):
 
-        mysql -u root -p database_name < dbms_project.sql
+        mysql -u root -p {database_name} < dbms_project.sql
 
 
 ### Screenshots of the Interface and Instructions for use
