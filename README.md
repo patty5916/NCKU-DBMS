@@ -65,6 +65,7 @@ You can execute the GUI using the following command:
 p.s.  
 1. Execute the three SQL commands of `DELETE`, `INSERT` and `UPDATE`, and the window below will pop up. After closing the window, all the data of the Table will be displayed.
 ![image](static/SQL_imformation1.png)
+
 2. When the SQL command is entered incorrectly or no data to display can be found, the window below will pop up, please check or re-enter the SQL command.  
 ![image](static/SQL_imformation2.png)
 
